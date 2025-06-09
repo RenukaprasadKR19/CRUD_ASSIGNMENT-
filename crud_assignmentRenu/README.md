@@ -162,14 +162,6 @@ Internship/Project: I-STEM Internship Assignment
 📄 License
 This project is free to use for learning and academic purposes.
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to generate the screenshots or package the code into a `.zip` file for easier sharing.
-
 
 
 
